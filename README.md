@@ -64,3 +64,13 @@
 - README.md
 
 ## BONUS ;) [Learn from me](https://www.youtube.com/c/LeadCodingbyFRAZ)
+
+
+
+Interview experience from navneet
+
+https://docs.google.com/document/d/1QnchGxoYZEZYCxldA3OeNfCV8ajwiMkYSdP-yX-N7bY/edit
+
+leetcode discuss from navneet
+
+https://docs.google.com/document/d/1OPqkJoUdySfWTgzy1eBT_h2dkwXeiIHv4CeZ8C1NJ1s/edit?pli=1
