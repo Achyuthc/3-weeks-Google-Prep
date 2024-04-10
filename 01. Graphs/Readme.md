@@ -40,7 +40,7 @@ MST
 
 
 DSU
-1. https://leetcode.com/problems/redundant-connection-ii/
+1. https://leetcode.com/problems/redundant-connection-ii/ not done
 
 
 Trie
