@@ -17,11 +17,11 @@ DFS
 
 
 Cycle Detection
-1. Cycle detection Directed graph
-2. Cycle detection Undirected graph
-3. Bipartite
-4. https://leetcode.com/problems/course-schedule/
-5. https://leetcode.com/problems/course-schedule-ii/
+1. Cycle detection Directed graph done
+2. Cycle detection Undirected graph done
+3. Bipartite  done
+4. https://leetcode.com/problems/course-schedule/ done
+5. https://leetcode.com/problems/course-schedule-ii/ done
 6. https://leetcode.com/problems/detect-cycles-in-2d-grid/
 7. Shortest Cycle in an undirected Graph
 8. Detecting odd len cycle (Bipartite)
@@ -34,9 +34,9 @@ DAG or Topological Sort
 
 
 MST
-1. https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/
-2. https://leetcode.com/problems/min-cost-to-connect-all-points/
-3. https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
+1. https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/ not done
+2. https://leetcode.com/problems/min-cost-to-connect-all-points/  done
+3. https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/ done
 
 
 DSU
