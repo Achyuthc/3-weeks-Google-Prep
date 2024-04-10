@@ -23,14 +23,14 @@ Cycle Detection
 4. https://leetcode.com/problems/course-schedule/ done
 5. https://leetcode.com/problems/course-schedule-ii/ done
 6. https://leetcode.com/problems/detect-cycles-in-2d-grid/
-7. Shortest Cycle in an undirected Graph
-8. Detecting odd len cycle (Bipartite)
-9. https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/
+7. Shortest Cycle in an undirected Graph not done
+8. Detecting odd len cycle (Bipartite) not done
+9. https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/ not done
 
 
 DAG or Topological Sort
-1. https://leetcode.com/problems/all-paths-from-source-to-target/
-2. https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
+1. https://leetcode.com/problems/all-paths-from-source-to-target/ done
+2. https://leetcode.com/problems/largest-color-value-in-a-directed-graph/ done
 
 
 MST
