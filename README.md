@@ -74,3 +74,26 @@ https://docs.google.com/document/d/1QnchGxoYZEZYCxldA3OeNfCV8ajwiMkYSdP-yX-N7bY/
 leetcode discuss from navneet
 
 https://docs.google.com/document/d/1OPqkJoUdySfWTgzy1eBT_h2dkwXeiIHv4CeZ8C1NJ1s/edit?pli=1
+
+
+
+Make sure you cover the following topics : 
+Topological sort
+DFS/BFS
+2-D Matrix Prefix Sum
+Binary Search over functions
+Dijkstra/Bellman Ford/ Floyd Warshall/ Kruskal's Minimum Spanning Tree
+UnionFind
+Trie
+Cycle Detection
+Intervals
+Segment Tree/Fenwick Tree
+KMP
+Bridges/Articulation point/Tarjan SCC
+In general my main focus was on following topics as I was comfortable in other ones:
+Graph distance 
+Bin packing and all NP : https://www.geeksforgeeks.org/bin-packing-problem-minimize-number-of-used-bins/
+String fitting and searching
+Trie
+Randomisation problems https://medium.com/@bedmuthaapoorv/tips-for-solving-randomized-coding-problems-106b552de57b
+
