@@ -97,3 +97,7 @@ String fitting and searching
 Trie
 Randomisation problems https://medium.com/@bedmuthaapoorv/tips-for-solving-randomized-coding-problems-106b552de57b
 
+
+Linkedin article about preparation.
+https://www.linkedin.com/pulse/my-guide-preparing-google-technical-interview-anthony-mays/
+
