@@ -89,7 +89,11 @@ Cycle Detection
 Intervals
 Segment Tree/Fenwick Tree
 KMP
-Bridges/Articulation point/Tarjan SCC
+Bridges/Articulation point/Tarjan SCC: 
+
+Articulation Points: https://cp-algorithms.com/graph/cutpoints.html#algorithm
+
+
 In general my main focus was on following topics as I was comfortable in other ones:
 Graph distance 
 Bin packing and all NP : https://www.geeksforgeeks.org/bin-packing-problem-minimize-number-of-used-bins/
